@@ -1,0 +1,46 @@
+Name- Siddhi Gupta
+
+Profile- Passionate individual and a dedicated Data Enthusiast
+candidate. Curious and inquisitive team player
+completing tasks on time. Strong Statistical abilities to
+get insights from data.
+
+Skills-
+SQL
+Python
+R
+Data Visualization with Power BI and Tableau
+Statistical Modelling
+Basic Excel
+
+Education- 
+Master of Science, Big Data Analytics
+St. Xavier’s College, Ahmedabad, Gujarat.
+[Coursework in Statistical Data Analysis and
+Visualization using Machine Learning techniques.]
+
+Bachelor Of Science, Mathematics
+President Science College, Gujarat University,
+Ahmedabad, Gujarat
+
+Projects-
+1.Telecom Churn Prediction
+Performed EDA in Power BI to reveal patterns, trends, and
+correlations in customer behavior, and potential churn
+indicators.
+Implemented machine learning models for accurate
+prediction and analysis of customer churn.
+Applied hypothesis testing to validate insights, ensuring
+statistically significant conclusions about factors
+influencing churn.
+
+2. Visualization on Financial Complaints Data
+Designed interactive Tableau dashboard to analyze
+financial complaints data, providing overview of trends and
+patterns.
+
+3.Pneumonia Detection using Deep Learning
+Developed pneumonia detection system using CNN,
+Inception v3, and ViT on a dataset of chest X-ray images.
+Demonstrated proficiency in deep learning, image
+classification.
